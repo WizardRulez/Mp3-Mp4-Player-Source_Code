@@ -1,1 +1,2 @@
-In This Folder Is Where Your Songs/Mp3 Or Audio Go You Can Just Copy And Paste Them Here
+In here is where Your Mp3 is it goes in MyAudio Just copy and paste the EXAMPLE.mp3 in myAudio
+I have Some For example when you do it it should be the same for you
