@@ -6,7 +6,7 @@ Hi if Your Here You Where Most Likely At The finished Of This Source Code If Not
  
  If you where told to come back here then you are done to start it go in Index.html
  
- IF You have questions or don't understand something email me at silvallynull4@gmail.com I should answer withen a few minutes to a few days i dont know because i forget to check it a lot If i dont answer after a day then you can spam just dont do i to much 
+ IF You have questions or don't understand something email me at silvallynull4@gmail.com I should answer withen a day or 2 i dont know because i forget to check it a lot If i dont answer after a day then you can spam just dont do i to much 
   
   Thanks for Using this i hope you like it it took me a long time to get everything together
  
