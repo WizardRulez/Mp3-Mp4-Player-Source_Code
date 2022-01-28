@@ -1,0 +1,68 @@
+<DOCTYPE html>
+<html>
+<body>
+    
+    <style>
+        Body{
+            background-color:black
+        }
+        
+           button {
+  border: 0px solid black;
+  outline: Blue solid 5px;
+  margin: auto;  
+  padding: 4px;
+  text-align: center;
+  background-color: Black;
+  color:white;
+  font-size:20px;
+  font-family:Comic Sans MS;
+               
+}
+                           h1 {
+  border: 0px solid black;
+  outline: blue solid 10px;
+  margin: auto;  
+  padding: 4px;
+  text-align: center;
+  background-color: Black;
+  color:white;
+  font-family:Comic Sans MS;
+               
+}
+
+        
+        
+    </style>
+
+<audio style = "position:absolute; left:0px; top:200px;" id="myAudio" hidden>
+  <source src="../../Mp3/MyAudio/THIS IS WHERE YOUR NAME FOR THE MP3 GOES.mp3" type="audio/mp3">
+  <source src="SAME HERE THE MP3 NAME.mp3" type="audio/mpeg">
+Your browser does not support the audio tag.
+</audio>
+    
+<button style = "position: absolute; left:5px; top:77px;" onclick="location.href = '../audioHub.html';" id="myButton" class="float-left submit-button" >!!Click Me to Go Back To Songs!!</button>
+    
+    <h1 style = "position:relative; left:0px; top:0px;" >SONG NAME HERE</h1>
+    
+    <button style = "position: absolute; left:5px; top:125px;" onclick="location.href = '../../Index.html';" id="myButton" class="float-left submit-button" >!!CLick Me For Mp4!!</button>
+
+    <button style = "position:absolute; left:500px; top:77px;" onclick="playAudio()" type="button">CLick Me To Play The Mp3 Audio </button>
+        <button style = "position:absolute; left:850px; top:77px;" onclick="pauseAudio()" type="button">CLick Me To Pause The Mp3 Audio </button>
+
+   
+
+</body>
+<script>
+    var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+  x.play(); 
+} 
+
+function pauseAudio() { 
+  x.pause(); 
+} 
+    
+    </script>
+</html>
