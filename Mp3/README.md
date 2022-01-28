@@ -1,2 +1,2 @@
-Ok SO in here is where your mp3 goes you can just copy and paste it but make sure it goes in MyAudio because if not you are going to have a lot more work I recommend making the names of them somthing simple because you are going to be tying that name a few times
+Ok SO in here is where your mp3 goes you can just copy and paste it but make sure it goes in MyAudio because if not you are going to have a lot more work I recommend making the names of them somthing simple because you are going to be tying that name a few times i have a few for examples later but you can just delete them if you like you can also delete the ones in Mp4 if you like but i recommend keeping them till you finish
  After doing that for the next step go to folder Mp4
